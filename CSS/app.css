@@ -1,3 +1,6 @@
+body {
+	font: "neuzeitGro-Lig";
+}
 
 .container {
 	background-color: #FFF3C9;
@@ -9,11 +12,6 @@
 
 .content {
 	float: left;
-}
-
-h1, h2 {
-	font: 24px "NeuzeitGro-Lig";
-
-}
-
+	width: 80%;
 	
+}
