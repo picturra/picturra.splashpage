@@ -6,13 +6,13 @@
 	padding: 20px; 
 }
 
-div {
-	margin: auto;
+.content {
+	float: left;
 }
 
 h1, h2 {
 	font: 24px "NeuzeitGro-Lig";
-	float: left;
+
 }
 
 	
