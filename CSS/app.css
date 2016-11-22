@@ -1,24 +1,14 @@
 body {
-	font-family: NeuzeitGro-Lig;
-}
-
-.container {
-	width: 60%;
-	margin: auto;
+	font-family: "NeuzeitGro-Lig"; "Sans-Serif"; 
 }
 
 section {
 	background-color: #FFF3C9;
 	width: 60%;
 	float: left;
-	margin: 10px;
+	margin: auto;
+	padding: 20px; 
 }
-
-h1, h2, { 
-	font-weight: normal; 
-	font-style: normal; 
-}
-
 
 
 	
