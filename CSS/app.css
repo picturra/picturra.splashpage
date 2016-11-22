@@ -9,12 +9,12 @@ body {
 
 section {
 	background-color: #FFF3C9;
+	width: 60%;
 	float: left;
 	margin: 10px;
 }
 
 h1, h2, { 
-	font-family: NeuzeitGro-Lig; 
 	font-weight: normal; 
 	font-style: normal; 
 }
