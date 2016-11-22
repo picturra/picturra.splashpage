@@ -3,11 +3,11 @@ body {
 }
 
 .container {
-	background-color: #FFF3C9;
 	width: 600px
 }
 
 section {
+	background-color: #FFF3C9;
 	float: left;
 	margin: 1.666%
 }
