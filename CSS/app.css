@@ -2,22 +2,22 @@ body {
 	font-family: NeuzeitGro-Lig;
 }
 
+.container {
+	background-color: #FFF3C9;
+	width: 600px
+}
+
+section {
+	float: left;
+	margin: 1.666%
+}
+
 h1, h2, h3, h4, h5 { 
 	font-family: NeuzeitGro-Lig; 
 	font-weight: normal; 
 	font-style: normal; 
 }
 
-.container {
-	background-color: #FFF3C9;
-	width: 600px
-
-}
-
-h1, h2 {
-	float: left; 
-	margin: 1.66666666666667%
-}
 
 
 	
