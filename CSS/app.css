@@ -3,13 +3,14 @@ body {
 }
 
 .container {
-	width: 600px
+	width: 600px;
+	margin: auto;
 }
 
 section {
 	background-color: #FFF3C9;
 	float: left;
-	margin: 1.666%
+	margin: 1.666%;
 }
 
 h1, h2, h3, h4, h5 { 
