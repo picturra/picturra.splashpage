@@ -7,11 +7,12 @@
 }
 
 div {
-	float: left;
+	margin: auto;
 }
 
 h1, h2 {
 	font: 24px "NeuzeitGro-Lig";
+	float: left;
 }
 
 	
