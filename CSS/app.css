@@ -1,3 +1,14 @@
+@import url("//hello.myfonts.net/count/32789b");
+
+  
+@font-face {font-family: 'NeuzeitGro-Lig';src: url('webfonts/32789B_0_0.eot');src: url('webfonts/32789B_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/32789B_0_0.woff2') format('woff2'),url('webfonts/32789B_0_0.woff') format('woff'),url('webfonts/32789B_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'NeuzeitGro-Bol';src: url('webfonts/32789B_1_0.eot');src: url('webfonts/32789B_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/32789B_1_0.woff2') format('woff2'),url('webfonts/32789B_1_0.woff') format('woff'),url('webfonts/32789B_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'NeuzeitGro-Reg';src: url('webfonts/32789B_2_0.eot');src: url('webfonts/32789B_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/32789B_2_0.woff2') format('woff2'),url('webfonts/32789B_2_0.woff') format('woff'),url('webfonts/32789B_2_0.ttf') format('truetype');}
+
 body {
 }
 
