@@ -5,9 +5,12 @@ body {
 section {
 	background-color: #FFF3C9;
 	width: 60%;
-	float: left;
 	margin: auto;
 	padding: 20px; 
+}
+
+h1, h2 {
+	float: left;
 }
 
 
