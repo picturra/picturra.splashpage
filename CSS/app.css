@@ -1,16 +1,23 @@
-body {
-	font: "neuzeitGro-Lig";
+@charset "UTF-8";
+body div h1 {
+	font-family: "Neuzeit Grotesk", "Helvetica Neue", Helvetica, sans-serif;
+	font-size: xx-large;
+	font-weight: bold;
+	color: #000000;
+	letter-spacing: 1.5pt;
+	border-bottom: 3pt solid #000000;
 }
-
-.container {
-	background-color: #FFF3C9;
-	width: 60%;
-	height: 90%;
-	margin: auto;
-	padding: 20px; 
+p {
+	font-family: "Neuzeit Grotesk", "Helvetica Neue", Helvetica, sans-serif;
 }
-
-.content {
-	float: left;
-	
+body div h2 {
+	font-family: "Neuzeit Grotesk", "Helvetica Neue", Helvetica, sans-serif;
+	font-size: medium;
+	color: #000000;
+	font-weight: bold;
+}
+div {
+	margin-left: 10%;
+	margin-top: 10%;
+	margin-right: 10%;
 }
