@@ -9,6 +9,8 @@ body div h1 {
 }
 p {
 	font-family: "Neuzeit Grotesk", "Helvetica Neue", Helvetica, sans-serif;
+	font-size: medium;
+	color: #000000;
 }
 body div h2 {
 	font-family: "Neuzeit Grotesk", "Helvetica Neue", Helvetica, sans-serif;
